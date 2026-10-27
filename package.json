@@ -1,0 +1,15 @@
+{
+  "name": "practicasupabase",
+  "version": "1.0.0",
+  "description": "Frontend conectado a una base de datos en la nube con Supabase y control de versiones con Git y GitHub.",
+  "main": "index.js",
+  "type": "module", 
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "author": "Myriam Monserrat Luna Pantoja",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.118.0"
+  }
+}
